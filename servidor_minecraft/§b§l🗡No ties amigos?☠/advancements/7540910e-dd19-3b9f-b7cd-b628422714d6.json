@@ -71,6 +71,7 @@
       "maple_forest": "2024-12-14 05:02:54 +0000",
       "frozen_pine_taiga": "2024-12-18 05:21:04 +0000",
       "magnolia_highlands": "2024-12-11 07:30:12 +0000",
+      "sparse_redwoods": "2024-12-21 05:55:52 +0000",
       "boreal_forest": "2024-12-14 04:59:16 +0000",
       "blackstone_basin": "2024-12-12 02:48:37 +0000",
       "towering_cliffs": "2024-12-20 01:01:45 +0000",
@@ -104,6 +105,7 @@
       "maple_forest": "2024-12-14 05:02:54 +0000",
       "frozen_pine_taiga": "2024-12-18 05:21:04 +0000",
       "magnolia_highlands": "2024-12-11 07:30:12 +0000",
+      "sparse_redwoods": "2024-12-21 05:55:52 +0000",
       "boreal_forest": "2024-12-14 04:59:16 +0000",
       "towering_cliffs": "2024-12-20 01:01:45 +0000",
       "cold_boreal_taiga": "2024-12-18 05:26:41 +0000",
@@ -719,6 +721,7 @@
     "criteria": {
       "minecraft:taiga": "2024-12-18 06:08:58 +0000",
       "minecraft:frozen_river": "2024-12-18 05:17:10 +0000",
+      "minecraft:bamboo_jungle": "2024-12-21 05:56:02 +0000",
       "minecraft:beach": "2024-12-11 21:25:41 +0000",
       "minecraft:dark_forest": "2024-12-14 04:43:41 +0000",
       "minecraft:sparse_jungle": "2024-12-21 05:20:27 +0000",
@@ -6732,6 +6735,24 @@
   "iceandfire:recipes/combat/armor_bronze_helmet": {
     "criteria": {
       "has_item": "2024-12-21 05:09:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2024-12-21 05:54:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2024-12-21 05:54:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2024-12-21 05:54:42 +0000"
     },
     "done": true
   },
