@@ -2775,6 +2775,7 @@
       "minecraft:spider": "2024-12-11 18:43:01 +0000",
       "minecraft:creeper": "2024-12-12 02:30:37 +0000",
       "minecraft:zombified_piglin": "2024-12-12 02:55:15 +0000",
+      "minecraft:witch": "2024-12-21 06:36:45 +0000",
       "minecraft:wither_skeleton": "2024-12-12 02:48:02 +0000",
       "minecraft:cave_spider": "2024-12-14 05:05:20 +0000",
       "minecraft:piglin": "2024-12-14 06:16:27 +0000",
@@ -6540,6 +6541,24 @@
   "minecraft:recipes/decorations/yellow_banner": {
     "criteria": {
       "has_yellow_wool": "2024-12-21 06:13:42 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/light_gray_dye_from_daisy": {
+    "criteria": {
+      "has_daisy": "2024-12-21 06:37:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-21 06:36:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-21 06:36:52 +0000"
     },
     "done": true
   },

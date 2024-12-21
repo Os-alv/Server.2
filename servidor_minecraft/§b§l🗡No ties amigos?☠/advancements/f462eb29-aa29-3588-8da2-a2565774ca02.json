@@ -6975,6 +6975,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-12-21 06:37:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2024-12-21 06:18:29 +0000"
@@ -6990,6 +6996,12 @@
   "mca:recipes/misc/potions": {
     "criteria": {
       "has_item": "2024-12-21 06:18:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-21 06:37:50 +0000"
     },
     "done": true
   },
