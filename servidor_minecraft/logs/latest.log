@@ -199,3 +199,7 @@
 [21Dec2024 03:06:33.297] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ADMIN (18)
 [21Dec2024 03:06:33.301] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ADMIN
 [21Dec2024 03:06:33.347] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4903ms or 98 ticks behind
+[21Dec2024 03:20:47.843] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: manu[/127.227.189.202:37407] logged in with entity id 2970 at (939.8812579065407, 64.0, 176.76859184595943)
+[21Dec2024 03:20:47.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu joined the game
+[21Dec2024 03:20:50.608] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of manu (18)
+[21Dec2024 03:20:50.610] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to manu
