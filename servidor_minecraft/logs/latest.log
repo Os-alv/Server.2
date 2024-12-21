@@ -561,3 +561,32 @@
 [21Dec2024 04:53:04.051] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
 [21Dec2024 04:53:23.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ADMIN to ram]
 [21Dec2024 04:53:35.459] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3215ms or 64 ticks behind
+[21Dec2024 04:57:22.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. ram was shot by Elite Skeleton
+[21Dec2024 04:57:22.604] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
+[21Dec2024 04:57:22.606] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
+[21Dec2024 04:57:55.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu has reached the goal [Global Offensive]
+[21Dec2024 04:58:31.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu fell from a high place
+[21Dec2024 04:58:31.019] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[21Dec2024 04:58:31.021] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[21Dec2024 04:58:41.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu fell from a high place
+[21Dec2024 04:59:00.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram has reached the goal [Global Offensive]
+[21Dec2024 05:00:34.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was doomed to fall by Simple Turret
+[21Dec2024 05:00:34.593] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[21Dec2024 05:00:34.594] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[21Dec2024 05:00:41.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu was doomed to fall by Simple Turret
+[21Dec2024 05:01:47.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN has reached the goal [A self-respecting Soul]
+[21Dec2024 05:03:49.181] [Worker-Main-42/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[21Dec2024 05:03:49.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. ram was shot by entity.terramity.gold_round_projectile_projectile
+[21Dec2024 05:03:49.971] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
+[21Dec2024 05:03:49.974] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
+[21Dec2024 05:03:59.467] [Worker-Main-42/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[21Dec2024 05:03:59.468] [Worker-Main-42/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[21Dec2024 05:03:59.469] [Worker-Main-42/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[21Dec2024 05:03:59.469] [Worker-Main-42/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[21Dec2024 05:03:59.777] [Worker-Main-42/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[21Dec2024 05:03:59.777] [Worker-Main-42/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[21Dec2024 05:03:59.778] [Worker-Main-42/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[21Dec2024 05:03:59.778] [Worker-Main-42/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[21Dec2024 05:04:49.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram was shot by entity.terramity.gold_round_projectile_projectile
+[21Dec2024 05:05:27.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ADMIN> [x:-1149, y:62, z:5, dim:minecraft:overworld]
+[21Dec2024 05:06:29.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> t

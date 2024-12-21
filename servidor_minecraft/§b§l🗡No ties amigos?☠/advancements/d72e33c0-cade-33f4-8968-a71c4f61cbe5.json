@@ -6415,6 +6415,12 @@
     },
     "done": true
   },
+  "terramity:elite_rifle_advancement": {
+    "criteria": {
+      "elite_rifle_advancement_0": "2024-12-21 04:59:00 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:sneak_grove": {
     "criteria": {
       "steal_crystal": "2024-12-21 04:37:41 +0000"

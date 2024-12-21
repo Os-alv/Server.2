@@ -6765,6 +6765,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_mercy": {
+    "criteria": {
+      "has_magic_scroll": "2024-12-21 05:01:47 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_silver_boots": {
     "criteria": {
       "has_item": "2024-12-21 04:27:18 +0000"
@@ -6810,6 +6816,12 @@
   "iceandfire:iceandfire/dragonarmor": {
     "criteria": {
       "iron": "2024-12-21 03:52:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2024-12-21 05:00:57 +0000"
     },
     "done": true
   },
