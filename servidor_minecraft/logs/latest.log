@@ -782,3 +782,27 @@
 [21Dec2024 05:37:17.509] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ram lost connection: Timed out
 [21Dec2024 05:37:17.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram left the game
 [21Dec2024 05:37:17.510] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ram
+[21Dec2024 05:38:01.697] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ram[/127.202.63.170:39679] logged in with entity id 71747 at (803.5, 67.0, 26.5)
+[21Dec2024 05:38:01.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram joined the game
+[21Dec2024 05:38:01.987] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ram (18)
+[21Dec2024 05:38:01.989] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ram
+[21Dec2024 05:42:08.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> [x:-458, y:62, z:674, dim:minecraft:overworld]
+[21Dec2024 05:42:27.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu suffocated in a wall
+[21Dec2024 05:42:27.059] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[21Dec2024 05:42:27.062] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[21Dec2024 05:42:32.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu suffocated in a wall
+[21Dec2024 05:42:32.569] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[21Dec2024 05:43:35.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> [x:-478, y:62, z:659, dim:minecraft:overworld]
+[21Dec2024 05:43:56.597] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2653ms or 53 ticks behind
+[21Dec2024 05:45:18.953] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[21Dec2024 05:46:07.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN has completed the challenge [Rude Awakening]
+[21Dec2024 05:47:13.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram was turned into gorgonzola by Gorgon
+[21Dec2024 05:47:13.133] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN moved too quickly! 9.493492099605191,1.324473125962129,3.1388935329387095
+[21Dec2024 05:47:13.144] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ram moved too quickly! -0.9173971445089819,-1.4930380721546896,9.97354482603248
+[21Dec2024 05:47:13.146] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
+[21Dec2024 05:47:13.169] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4375ms or 87 ticks behind
+[21Dec2024 05:47:14.575] [Worker-Main-43/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[21Dec2024 05:47:14.576] [Worker-Main-43/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[21Dec2024 05:47:14.577] [Worker-Main-43/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[21Dec2024 05:47:14.577] [Worker-Main-43/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[21Dec2024 05:47:14.864] [Worker-Main-43/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
