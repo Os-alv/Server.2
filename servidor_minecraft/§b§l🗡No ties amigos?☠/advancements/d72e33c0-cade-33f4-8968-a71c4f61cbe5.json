@@ -1020,6 +1020,7 @@
       "minecraft:taiga": "2024-12-20 01:21:55 +0000",
       "minecraft:bamboo_jungle": "2024-12-20 02:54:15 +0000",
       "minecraft:beach": "2024-12-11 18:39:05 +0000",
+      "minecraft:sparse_jungle": "2024-12-21 05:20:49 +0000",
       "minecraft:river": "2024-12-11 06:00:41 +0000",
       "minecraft:lukewarm_ocean": "2024-12-12 06:14:23 +0000",
       "minecraft:stony_shore": "2024-12-11 07:31:57 +0000",
@@ -6415,9 +6416,45 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_bone_wall": {
+    "criteria": {
+      "has_item": "2024-12-21 05:15:11 +0000"
+    },
+    "done": true
+  },
   "terramity:elite_rifle_advancement": {
     "criteria": {
       "elite_rifle_advancement_0": "2024-12-21 04:59:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_flute": {
+    "criteria": {
+      "has_item": "2024-12-21 05:15:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/nest": {
+    "criteria": {
+      "has_item": "2024-12-21 05:15:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_bow": {
+    "criteria": {
+      "has_item": "2024-12-21 05:15:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragon_bone_block": {
+    "criteria": {
+      "has_dragonbone": "2024-12-21 05:15:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_hoe": {
+    "criteria": {
+      "has_item": "2024-12-21 05:15:11 +0000"
     },
     "done": true
   },
@@ -6427,9 +6464,39 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_shovel": {
+    "criteria": {
+      "has_item": "2024-12-21 05:15:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_axe": {
+    "criteria": {
+      "has_item": "2024-12-21 05:15:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_pickaxe": {
+    "criteria": {
+      "has_item": "2024-12-21 05:15:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_sword": {
+    "criteria": {
+      "has_item": "2024-12-21 05:15:11 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:kill_umvuthi": {
     "criteria": {
       "barako": "2024-12-21 04:40:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_horn": {
+    "criteria": {
+      "has_item": "2024-12-21 05:15:11 +0000"
     },
     "done": true
   },
