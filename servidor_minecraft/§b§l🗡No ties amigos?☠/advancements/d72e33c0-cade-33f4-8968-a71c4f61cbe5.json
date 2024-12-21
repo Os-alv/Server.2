@@ -1032,6 +1032,7 @@
       "minecraft:jungle": "2024-12-11 06:30:09 +0000",
       "minecraft:ocean": "2024-12-11 18:42:14 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-20 02:02:38 +0000",
+      "minecraft:deep_lukewarm_ocean": "2024-12-21 05:29:26 +0000",
       "minecraft:savanna": "2024-12-20 03:28:25 +0000",
       "minecraft:plains": "2024-12-11 19:17:24 +0000"
     },
@@ -6416,15 +6417,27 @@
     },
     "done": true
   },
-  "iceandfire:recipes/misc/dragon_bone_wall": {
+  "mowziesmobs:sneak_grove": {
     "criteria": {
-      "has_item": "2024-12-21 05:15:11 +0000"
+      "steal_crystal": "2024-12-21 04:37:41 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthi": {
+    "criteria": {
+      "barako": "2024-12-21 04:40:02 +0000"
     },
     "done": true
   },
   "terramity:elite_rifle_advancement": {
     "criteria": {
       "elite_rifle_advancement_0": "2024-12-21 04:59:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_bone_wall": {
+    "criteria": {
+      "has_item": "2024-12-21 05:15:11 +0000"
     },
     "done": true
   },
@@ -6458,12 +6471,6 @@
     },
     "done": true
   },
-  "mowziesmobs:sneak_grove": {
-    "criteria": {
-      "steal_crystal": "2024-12-21 04:37:41 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/tools/dragonbone_shovel": {
     "criteria": {
       "has_item": "2024-12-21 05:15:11 +0000"
@@ -6485,12 +6492,6 @@
   "iceandfire:recipes/tools/dragonbone_sword": {
     "criteria": {
       "has_item": "2024-12-21 05:15:11 +0000"
-    },
-    "done": true
-  },
-  "mowziesmobs:kill_umvuthi": {
-    "criteria": {
-      "barako": "2024-12-21 04:40:02 +0000"
     },
     "done": true
   },
