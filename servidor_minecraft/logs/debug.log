@@ -6111,3 +6111,70 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [21Dec2024 03:20:50.610] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to manu
 [21Dec2024 03:23:55.044] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save 🗡No ties amigos?☠
 [21Dec2024 03:23:55.059] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠
+[21Dec2024 03:25:48.750] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/4670, l='ServerLevel[🗡No ties amigos?☠]', x=954.50, y=52.00, z=-68.50]
+[21Dec2024 03:28:55.092] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save 🗡No ties amigos?☠
+[21Dec2024 03:28:55.106] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠
+[21Dec2024 03:33:55.102] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save 🗡No ties amigos?☠
+[21Dec2024 03:33:55.117] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠
+[21Dec2024 03:38:03.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ADMIN to manu]
+[21Dec2024 03:38:13.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was zapped to death whilst trying to escape ADMIN
+[21Dec2024 03:38:13.632] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[21Dec2024 03:38:13.644] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[21Dec2024 03:38:21.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was shot by ADMIN
+[21Dec2024 03:38:21.212] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[21Dec2024 03:38:21.217] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[21Dec2024 03:38:30.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was shot by ADMIN
+[21Dec2024 03:38:30.155] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[21Dec2024 03:38:30.161] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[21Dec2024 03:38:32.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu blew up
+[21Dec2024 03:38:32.873] [Server thread/DEBUG] [tombstone/]: A new grave of the player manu was created at position [x:936, y:60, z:179, dim:minecraft:overworld]
+[21Dec2024 03:38:32.880] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[21Dec2024 03:38:55.060] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save 🗡No ties amigos?☠
+[21Dec2024 03:38:55.077] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠
+[21Dec2024 03:39:42.374] [Worker-Main-8/DEBUG] [mixin/]: Mixing gen.WorldGenRegionMixin from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[21Dec2024 03:42:51.202] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3297ms or 65 ticks behind
+[21Dec2024 03:42:51.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was slain by Zombie
+[21Dec2024 03:42:51.513] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[21Dec2024 03:42:51.534] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[21Dec2024 03:43:09.069] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2924ms or 58 ticks behind
+[21Dec2024 03:43:11.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu was slain by Zombie
+[21Dec2024 03:43:11.821] [Server thread/DEBUG] [tombstone/]: A new grave of the player manu was created at position [x:809, y:63, z:34, dim:minecraft:overworld]
+[21Dec2024 03:43:49.204] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[21Dec2024 03:44:03.195] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save 🗡No ties amigos?☠
+[21Dec2024 03:44:03.220] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠
+[21Dec2024 03:44:11.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu tried to swim in lava
+[21Dec2024 03:44:11.515] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[21Dec2024 03:44:11.518] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[21Dec2024 03:44:13.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu tried to swim in lava
+[21Dec2024 03:44:13.615] [Server thread/DEBUG] [tombstone/]: A new grave of the player manu was created at position [x:938, y:63, z:177, dim:minecraft:overworld]
+[21Dec2024 03:44:13.620] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[21Dec2024 03:45:21.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN has reached the goal [Global Offensive]
+[21Dec2024 03:47:41.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ADMIN to manu]
+[21Dec2024 03:47:46.526] [Server thread/WARN] [net.minecraft.world.level.block.entity.SignBlockEntity/]: Player ADMIN just tried to change non-editable sign
+[21Dec2024 03:47:46.916] [Server thread/WARN] [net.minecraft.world.level.block.entity.SignBlockEntity/]: Player ADMIN just tried to change non-editable sign
+[21Dec2024 03:47:54.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ADMIN to manu]
+[21Dec2024 03:48:00.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu blew up
+[21Dec2024 03:48:00.309] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[21Dec2024 03:48:00.310] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[21Dec2024 03:48:03.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu blew up
+[21Dec2024 03:48:03.057] [Server thread/DEBUG] [tombstone/]: A new grave of the player manu was created at position [x:103, y:38, z:14, dim:minecraft:the_nether]
+[21Dec2024 03:48:03.069] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[21Dec2024 03:48:37.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu tried to swim in lava
+[21Dec2024 03:48:37.707] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[21Dec2024 03:48:37.709] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[21Dec2024 03:48:42.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu suffocated in a wall
+[21Dec2024 03:48:42.213] [Server thread/DEBUG] [tombstone/]: A new grave of the player manu was created at position [x:108, y:45, z:36, dim:minecraft:the_nether]
+[21Dec2024 03:48:42.216] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[21Dec2024 03:49:03.116] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save 🗡No ties amigos?☠
+[21Dec2024 03:49:03.131] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠
+[21Dec2024 03:50:03.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was slain by Zombie
+[21Dec2024 03:50:03.059] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[21Dec2024 03:50:03.079] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[21Dec2024 03:50:10.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu was slain by Zombie
+[21Dec2024 03:50:10.914] [Server thread/DEBUG] [tombstone/]: A new grave of the player manu was created at position [x:947, y:63, z:165, dim:minecraft:overworld]
+[21Dec2024 03:52:24.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN has made the advancement [Suit Up]
+[21Dec2024 03:54:03.169] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save 🗡No ties amigos?☠
+[21Dec2024 03:54:03.205] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠
+[21Dec2024 03:54:18.893] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
+[21Dec2024 03:54:18.894] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
+[21Dec2024 03:54:18.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN has made the advancement [Settling In]
